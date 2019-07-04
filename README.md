@@ -2,6 +2,7 @@
 Unique String Generator
 
 [![Build Status](https://travis-ci.org/nasermirzaei89/id.svg?branch=master)](https://travis-ci.org/nasermirzaei89/id)
+[![GoDoc](https://godoc.org/github.com/nasermirzaei89/id?status.svg)](https://godoc.org/github.com/nasermirzaei89/id)
 
 ## Description
 
