@@ -1,6 +1,8 @@
 # ID
 Unique String Generator
 
+[![Build Status](https://travis-ci.org/nasermirzaei89/id.svg?branch=master)](https://travis-ci.org/nasermirzaei89/id)
+
 ## Description
 
 This package generates a new unique string (40 Character) that is useful for **id**.
