@@ -1,10 +1,9 @@
 language: go
 
 go:
-  - 1.12.x
-  - 1.x
+  - 1.14.x
   - tip
 
 script:
-  - go test -bench=.
+  - go test
   - go build
