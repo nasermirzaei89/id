@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Print(id.New())
+	fmt.Println(id.New())
 }
