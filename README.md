@@ -21,7 +21,7 @@ go get github.com/nasermirzaei89/id
 ### As Binary
 
 ```sh
-go get github.com/nasermirzaei89/id/cmd/id
+go get github.com/nasermirzaei89/id/...
 ```
 
 ## Usage
@@ -35,6 +35,6 @@ import (
 )
 
 func main() {
-	fmt.Print(id.New())
+	fmt.Println(id.New())
 }
 ```
